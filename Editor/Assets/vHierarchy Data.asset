@@ -27,6 +27,7 @@ MonoBehaviour:
     - f50ed14b3769fe5438e6f818045137d1
     - e9c92fda219e95c4c8f0a555a4564aed
     - 1fa02d69fce602c498d3ad3e32a57fb3
+    - 8c9cfa26abfee488c85f1582747f6a02
     values:
     - goDatas_byGlobalId:
         keys:
@@ -415,6 +416,19 @@ MonoBehaviour:
         values:
         - colorIndex: 0
           iconNameOrGuid: Folder Icon
+          isIconRecursive: 0
+          isColorRecursive: 0
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-39292584-0
+        - globalObjectIdString: GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-4540280314351510679-455883548
+        values:
+        - colorIndex: 2
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 0
+          iconNameOrGuid: BoxCollider Icon
           isIconRecursive: 0
           isColorRecursive: 0
   bookmarks: []
