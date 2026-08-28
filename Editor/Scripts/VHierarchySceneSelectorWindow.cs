@@ -1154,7 +1154,7 @@ namespace VHierarchy
             {
                 VHierarchy.data = ScriptableObject.CreateInstance<VHierarchyData>();
 
-                AssetDatabase.CreateAsset(VHierarchy.data, GetScriptPath("VHierarchy").GetParentPath().CombinePath("vHierarchy Data.asset"));
+                AssetDatabase.CreateAsset(VHierarchy.data, "Assets/Editor/vHierarchy Data.asset");
             }
 
 

@@ -583,7 +583,7 @@ namespace VHierarchy
 
                 VHierarchy.data = ScriptableObject.CreateInstance<VHierarchyData>();
 
-                AssetDatabase.CreateAsset(VHierarchy.data, GetScriptPath("VHierarchy").GetParentPath().CombinePath("vHierarchy Data.asset"));
+                AssetDatabase.CreateAsset(VHierarchy.data, "Assets/Editor/vHierarchy Data.asset");
 
             }
             void createPalette()
@@ -592,7 +592,7 @@ namespace VHierarchy
 
                 VHierarchy.palette = ScriptableObject.CreateInstance<VHierarchyPalette>();
 
-                AssetDatabase.CreateAsset(VHierarchy.palette, GetScriptPath("VHierarchy").GetParentPath().CombinePath("vHierarchy Palette.asset"));
+                AssetDatabase.CreateAsset(VHierarchy.palette, "Assets/Editor/vHierarchy Palette.asset");
 
             }
             void setSize()

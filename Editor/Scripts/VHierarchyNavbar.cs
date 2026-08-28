@@ -219,7 +219,7 @@ namespace VHierarchy
 
                     data = ScriptableObject.CreateInstance<VHierarchyData>();
 
-                    AssetDatabase.CreateAsset(data, GetScriptPath("VHierarchy").GetParentPath().CombinePath("vHierarchy Data.asset"));
+                    AssetDatabase.CreateAsset(data, "Assets/Editor/vHierarchy Data.asset");
 
                 }
                 void divider()
