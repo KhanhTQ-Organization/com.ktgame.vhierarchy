@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/KhanhTQ-Organization/com.ktgame.vhierarchy/compare/v1.0.1...v1.0.2) (2026-08-28)
+
+
+### Bug Fixes
+
+* update hierachy ([e231abc](https://github.com/KhanhTQ-Organization/com.ktgame.vhierarchy/commit/e231abcf3174faa05bb6f438d575fb1a3fc9a91d))
+
 ## [1.0.1](https://github.com/KhanhTQ-Organization/com.ktgame.vhierarchy/compare/v1.0.0...v1.0.1) (2026-08-20)
 
 
